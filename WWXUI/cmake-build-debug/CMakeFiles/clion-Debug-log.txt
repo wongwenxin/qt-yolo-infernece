@@ -1,0 +1,7 @@
+/home/wwx/clion-2023.1.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/wwx/clion-2023.1.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/wwx/CLionProjects/WWXUI -B /home/wwx/CLionProjects/WWXUI/cmake-build-debug
+-- OPENCV : 
+-- ONNXRUNTIME: /home/wwx/onnxruntime-linux-x64-gpu-1.15.1
+-- /home/wwx/CLionProjects/WWXUI
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/wwx/CLionProjects/WWXUI/cmake-build-debug

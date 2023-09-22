@@ -1,0 +1,4 @@
+/home/wwx/CLionProjects/WWXUI/cmake-build-debug/CMakeFiles/WWXUI.dir
+/home/wwx/CLionProjects/WWXUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wwx/CLionProjects/WWXUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wwx/CLionProjects/WWXUI/cmake-build-debug/CMakeFiles/WWXUI_autogen.dir
